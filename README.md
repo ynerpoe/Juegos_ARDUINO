@@ -1,3 +1,7 @@
+
+<img width="218" height="304" alt="image" src="https://github.com/user-attachments/assets/08e346cf-6794-4bf3-ac4e-9e363f7d6efa" />
+
+
 # Juegos_ARDUINO
 Este es un conjunto de codigos para juegos minimalistas adaptados para Arduino
 
