@@ -2,8 +2,10 @@
  * Controlado con joystick analógico.
  * Utiliza la librería LedControl para manejar las matrices LED.
  * Adaptado de varios ejemplos de Snake en Arduino.
- * by YnerPoe
  * octubre/2025
+ * by YnerPoe  # ynerpoe@gmail.com  # labtec@umce.cl
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ * Copyright (C) 2025 YnerPoe
  */ 
  
 #include <LedControl.h>               // Librería para controlar matrices LED con MAX7219
@@ -304,3 +306,4 @@ void fin() {
   }
   noTone(BUZZER);
 }
+
