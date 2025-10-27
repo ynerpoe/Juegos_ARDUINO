@@ -2,8 +2,10 @@
  * Controlado con joystick analógico y botón de rotación.
  * Utiliza la librería LedControl para manejar las matrices LED.
  * Adaptado de varios ejemplos de Tetris en Arduino.
- * by YnerPoe
  * octubre/2025
+ * by YnerPoe  # ynerpoe@gmail.com  # labtec@umce.cl
+ * SPDX-License-Identifier: GPL-3.0-or-later
+ * Copyright (C) 2025 YnerPoe
  */
 
 #include <LedControl.h>
@@ -644,3 +646,4 @@ void fin() {
   }
   noTone(BUZZER);
 }
+
