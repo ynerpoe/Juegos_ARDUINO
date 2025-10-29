@@ -12,4 +12,5 @@ SNAKE: Este es el famoso juego SNAKE para 4 matrices MAX7219 dispuesto para usar
 
 PONG: el clásico juego PONG en una versión minimalista para Arduino, usando 4 matrices LED MAX7219 (32 filas x 8 columnas) y controlado por un joystick analógico. El juego está diseñado para funcionar con hardware sencillo y de bajo coste, y se juega en solitario con la matriz dispuesta verticalmente. Utiliza la librería LedControl para gestionar las matrices LED y el buzzer para efectos de sonido. El código fuente está comentado en español para facilitar su comprensión y modificación.
 
+Cableado de los componentes:
 https://github.com/ynerpoe/Juegos_ARDUINO/blob/main/Hardware_conection.png
