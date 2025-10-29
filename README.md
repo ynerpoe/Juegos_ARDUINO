@@ -1,3 +1,4 @@
+Contacto: labtec@umce.cl
 
 # Juegos_ARDUINO
 Este es un conjunto de codigos para juegos minimalistas adaptados para Arduino
