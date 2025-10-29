@@ -11,3 +11,5 @@ TETRIS: Este es el famoso juego de TETRIS adaptado para 4 matrices MAX7219 (32x8
 SNAKE: Este es el famoso juego SNAKE para 4 matrices MAX7219 dispuesto para usar la totalidad de la matriz led. La matriz está modelada con 8 columnas y 32 filas. Controlado con joystick analógico. Utiliza la librería LedControl para mostrar la serpiente y la comida. Incluye lógica para movimiento, colisiones, crecimiento de la serpiente y puntuación. Efectos de sonido y animaciones para comer comida y fin de juego.
 
 PONG: el clásico juego PONG en una versión minimalista para Arduino, usando 4 matrices LED MAX7219 (32 filas x 8 columnas) y controlado por un joystick analógico. El juego está diseñado para funcionar con hardware sencillo y de bajo coste, y se juega en solitario con la matriz dispuesta verticalmente. Utiliza la librería LedControl para gestionar las matrices LED y el buzzer para efectos de sonido. El código fuente está comentado en español para facilitar su comprensión y modificación.
+
+https://github.com/ynerpoe/Juegos_ARDUINO/blob/main/Hardware_conection.png
