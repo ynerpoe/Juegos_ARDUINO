@@ -15,3 +15,6 @@ PONG: el clásico juego PONG en una versión minimalista para Arduino, usando 4 
 
 Cableado de los componentes:
 https://github.com/ynerpoe/Juegos_ARDUINO/blob/main/Hardware_conection.png
+
+
+![](https://goatcounter.com)
